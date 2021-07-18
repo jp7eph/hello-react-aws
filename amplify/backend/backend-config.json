@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "helloreactawsc41fdfbc": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

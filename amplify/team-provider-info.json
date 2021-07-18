@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-helloreactaws-dev-35938-authRole",
+      "UnauthRoleArn": "arn:aws:iam::347607413851:role/amplify-helloreactaws-dev-35938-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::347607413851:role/amplify-helloreactaws-dev-35938-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-helloreactaws-dev-35938-deployment",
+      "UnauthRoleName": "amplify-helloreactaws-dev-35938-unauthRole",
+      "StackName": "amplify-helloreactaws-dev-35938",
+      "StackId": "arn:aws:cloudformation:us-east-1:347607413851:stack/amplify-helloreactaws-dev-35938/4f19c020-e7fa-11eb-9e88-0a02d189250d",
+      "AmplifyAppId": "d1r3g56dl92l60"
+    },
+    "categories": {
+      "auth": {
+        "helloreactawsc41fdfbc": {}
+      }
+    }
+  }
+}
